@@ -22,4 +22,3 @@ It uses **Hive** for offline storage, **SharedPreferences** for user consent, an
 
 ---
 
-## 📂 Project Structure
